@@ -4,7 +4,7 @@
 <h3 align="center">💫 About Me: Passionate Finance & Data Enthusiast</h3>
 
 <p align="center">
-  As a data scientist and financial engineer, I am a skilled professional with in-depth knowledge in various programming languages, financial concepts, and technologies. 
+  As a data scientist and financial engineer, I am a skilled professional with in-depth knowledge in data analytics ,data visualization, machine learning , python and R programming , data science, financial concepts, and technologies. 
   I am versatile and can easily adapt to different frameworks or platforms.
 </p>
 

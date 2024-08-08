@@ -8,7 +8,7 @@
   I am versatile and can easily adapt to different frameworks or platforms.
 </p>
 
-<img align="right" alt="Coding" width="300" style="border-radius: 15px;" src="https://cdn.dribbble.com/users/1210339/screenshots/2776561/einstein_cycling.gif">
+<img align="right" alt="Coding" width="300" style="border-radius: 15px;" src="https://th.bing.com/th/id/R.f617f080d4d78bdee1c6615397bebc6a?rik=IKM4kPewsQQlmg&pid=ImgRaw&r=0">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=brian-githinji&label=Profile%20views&color=0e75b6&style=flat" alt="brian-githinji" /> 
@@ -50,6 +50,10 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/> 
   </a>
+  <a href="https://public.tableau.com/app/discover" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.j2dTZayD7zBC3nYbVF5q1gHaHa?rs=1&pid=ImgDetMain" alt="Tableau" width="50" height="50"/>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=04a5e663103a627f3014f2dc11c763ab" target="_blank" rel="noreferrer">
+    <img src="https://logodownload.org/wp-content/uploads/2020/04/excel-logo-0-2048x2048.png" alt="Excel" width="50" height="50"/>
 </p>
 
 <p align="center">

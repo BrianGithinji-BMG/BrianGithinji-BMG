@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=brian-githinji&label=Profile%20views&color=0e75b6&style=flat" alt="brian-githinji" /> 
 </p>
 
-- 🔭 I’m currently studying **Data Science** at **Moringa School**
+- 🔭 I’m **Data Science Graduate** from **Moringa School**
 - 📫 How to reach me: **briangithinji564@gmail.com**
 - ⚡ Fun fact: **Data is not a project, it is a strategy**
 
